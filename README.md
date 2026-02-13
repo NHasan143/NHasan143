@@ -10,11 +10,11 @@
   loop
 ></dotlottie-wc>
 
-![Software Developer] (https://lottie.host/embed/37ef6b3a-673e-4044-8e23-dbdb468d952f/WxgNSup8oO.lottie)
+![Software Developer] (https://github.com/NHasan143/NHasan143/blob/main/SoftwareDeveloper.gif)
 
-# Hi, I'm Naymul Hasan 👋
+## Hi, I'm Naymul Hasan 👋
 
-## A Software Developer, Data Analysis Enthusiast
+### A Software Developer, Data Analysis Enthusiast
 
 📫 Write to me at [hello@naymulhasan.com](mailto:hello@naymulhasan.com)
 
