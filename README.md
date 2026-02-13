@@ -1,4 +1,4 @@
-![Software Developer](https://github.com/NHasan143/NHasan143/raw/main/SoftwareDeveloper.png)
+![Software Developer](https://github.com/NHasan143/NHasan143/raw/main/Software_Developer.jpg)
 
 
 
