@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Naymul Hasan 👋</h1>
 
-<h3 align= "center"> A Software Developer, Data Analyst, Tech Writer and AI Enthusiast</h3>
+<h4 align= "center"> A Software Developer, Data Analyst, Tech Writer and AI Enthusiast</h4>
 
 ---
 
@@ -10,6 +10,18 @@
 > "Code never lies, comments sometimes do." – *Ron Jeffries*
 
 ---
+
+## About Me
+
+I am a passionate software developer with a focus on **Data Science**, **Web Development**, and **Artificial Intelligence**. Over the years, I've worked on a variety of projects, ranging from full-stack development to Data Analysis. I enjoy solving complex problems and continuously expanding my skillset.
+
+- 🔧 Currently working with **React**, **Python**, **Django**, and **Flask**.
+- 🌱 Actively learning **Machine Learning** and **Cloud Technologies**.
+- 💬 Ask me about **Web Development**, **Data Science**, or **AI**.
+
+---
+
+## Key Skills and Technologies
 
 ## Stacks and Languages I can speak in
 
