@@ -10,7 +10,10 @@
   loop
 ></dotlottie-wc>
 
-![Software Developer] ([SoftwareDeveloper.gif](https://lottie.host/embed/37ef6b3a-673e-4044-8e23-dbdb468d952f/WxgNSup8oO.lottie))
+![Software Developer] (https://lottie.host/embed/37ef6b3a-673e-4044-8e23-dbdb468d952f/WxgNSup8oO.lottie)
+
+<iframe src="https://lottie.host/embed/37ef6b3a-673e-4044-8e23-dbdb468d952f/WxgNSup8oO.lottie" style="width:300px; height:300px;" frameborder="0"></iframe>
+
 
 ## Hi, I'm Naymul Hasan 👋
 
