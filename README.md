@@ -40,4 +40,10 @@ I am a passionate software developer with a focus on **Data Science**, **Web Dev
 
 ---
 
-Write to me at [hello@naymulhasan.com](mailto:hello@naymulhasan.com)
+## GitHub Stats
+
+![Naymul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NHasan143&show_icons=true&hide_title=true)
+
+---
+
+<p align = "center">Write to me at [hello@naymulhasan.com](mailto:contact@naymulhasan.com)</p>
