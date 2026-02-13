@@ -1,13 +1,15 @@
-![Software Developer](https://github.com/NHasan143/NHasan143/raw/main/Software_Developer.jpg)
-
-
-
 ## Hi, I'm Naymul Hasan 👋
 
 ### A Software Developer, Data Analysis Enthusiast
 
 📫 Write to me at [hello@naymulhasan.com](mailto:hello@naymulhasan.com)
 
+---
+
+![Software Developer](https://github.com/NHasan143/NHasan143/raw/main/Software_Developer.jpg)
+
+
+> "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
 
 ---
 
