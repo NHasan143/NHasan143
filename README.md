@@ -11,6 +11,8 @@
 ></dotlottie-wc>
 
 ![Software Developer](https://github.com/NHasan143/NHasan143/raw/main/SoftwareDeveloper.gif)
+![Software Developer](https://github.com/NHasan143/NHasan143/raw/main/SoftwareDeveloper.png)
+
 
 
 ## Hi, I'm Naymul Hasan 👋
