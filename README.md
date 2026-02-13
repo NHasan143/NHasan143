@@ -28,10 +28,4 @@
 
 ---
 
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&logo=github&logoColor=white)](https://github.com/your-profile) 
-
----
-
 Write to me at [hello@naymulhasan.com](mailto:hello@naymulhasan.com)
