@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Naymul Hasan 👋</h1>
 
-<h3 align= "center"> A Software Developer, Data Analysis Enthusiast</h3>
+<h3 align= "center"> A Software Developer, Data Analyst, Tech Writer and AI Enthusiast</h3>
 
 ---
 
 ![Software Developer](https://github.com/NHasan143/NHasan143/raw/main/Software_Developer.jpg)
 
 
-> "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
+> "Code never lies, comments sometimes do." – *Ron Jeffries*
 
 ---
 
