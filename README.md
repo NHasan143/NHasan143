@@ -10,7 +10,7 @@
   loop
 ></dotlottie-wc>
 
-![Software Developer] (https://github.com/NHasan143/NHasan143/blob/main/SoftwareDeveloper.gif)
+![Software Developer] (https://github.com/NHasan143/NHasan143/blob/48d3992bb4a98b9555bc32025123391979c25547/SoftwareDeveloper.gif)
 
 ## Hi, I'm Naymul Hasan 👋
 
