@@ -23,7 +23,7 @@ I am a passionate software developer with a focus on **Data Science**, **Web Dev
 
 ## Key Skills and Technologies
 
-## Stacks and Languages I can speak in
+### Stacks and Languages I can speak in
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -42,8 +42,11 @@ I am a passionate software developer with a focus on **Data Science**, **Web Dev
 
 ## GitHub Stats
 
-![Naymul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NHasan143&show_icons=true&hide_title=true)
+![Repos](https://img.shields.io/github/repo-size/NHasan143/NHasan143?style=flat-square)
+![Followers](https://img.shields.io/github/followers/NHasan143?style=flat-square)
 
 ---
 
-<p align = "center">Write to me at [hello@naymulhasan.com](mailto:contact@naymulhasan.com)</p>
+<p align = "center">
+    Write to me at <a href="mailto:contacto@naymulhasan.com">hello@naymulhasan.com</a>
+</p>
