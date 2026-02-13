@@ -1,16 +1,3 @@
-<script
-  src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.11/dist/dotlottie-wc.js"
-  type="module"
-></script>
-
-<dotlottie-wc
-  src="https://lottie.host/37ef6b3a-673e-4044-8e23-dbdb468d952f/WxgNSup8oO.lottie"
-  style="width: 300px;height: 300px"
-  autoplay
-  loop
-></dotlottie-wc>
-
-![Software Developer](https://github.com/NHasan143/NHasan143/raw/main/SoftwareDeveloper.gif)
 ![Software Developer](https://github.com/NHasan143/NHasan143/raw/main/SoftwareDeveloper.png)
 
 
