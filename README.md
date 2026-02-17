@@ -15,7 +15,7 @@
 
 I am a passionate software developer with a focus on **Data Science**, **Web Development**, and **Artificial Intelligence**. Over the years, I've worked on a variety of projects, ranging from full-stack development to Data Analysis. I enjoy solving complex problems and continuously expanding my skillset.
 
-- 🔧 Currently working with **React**, **React**, **Python**, **Django**, and **Flask**.
+- 🔧 Currently working with **React**, **Javascript**, **Python**, **Django**, and **Flask**.
 - 🌱 Actively learning **Machine Learning** and **Cloud Technologies**.
 - 💬 Ask me about **Software Development**, **Web Development**, **Data Science**, or **AI**.
 
