@@ -47,5 +47,5 @@ I am a passionate software developer with a focus on **Data Science**, **Web Dev
 ---
 
 <p align = "center">
-    Write to me at <a href="mailto:contacto@naymulhasan.com">hello@naymulhasan.com</a>
+    Write to me at <a href="mailto:contacto@naymulhasan.com">contact@naymulhasan.com</a>
 </p>
