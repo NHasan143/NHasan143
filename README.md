@@ -43,6 +43,7 @@ I am a passionate software developer with a focus on **Data Science**, **Web Dev
 
 ![Repos](https://img.shields.io/github/repo-size/NHasan143/NHasan143?style=flat-square)
 ![Followers](https://img.shields.io/github/followers/NHasan143?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=NHasan143&style=flat-square&label=Profile+Views&color=blue)
 
 ---
 
