@@ -48,7 +48,7 @@ I am a passionate software developer with a focus on **Data Science**, **Web Dev
 
 ## GitHub Stats
 
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNHasan143&query=%24.public_repos&label=Public+Repos&style=flat-square)
+![Public Repos](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FNHasan143%2FNHasan143%2Foutput%2Frepos.json&style=flat-square)
 ![Profile Repo Size](https://img.shields.io/github/repo-size/NHasan143/NHasan143?style=flat-square&label=Profile+Repo+Size)
 ![Followers](https://img.shields.io/github/followers/NHasan143?style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=NHasan143&style=flat-square&label=Profile+Views&color=blue)
