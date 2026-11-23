@@ -15,6 +15,17 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      # Runs first so dist/ is owned by the runner user. The snake step below
+      # runs in a Docker container as root, which would otherwise create dist/
+      # as root and block later writes to it.
+      - name: Count public repos
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p dist
+          count=$(gh api "users/${{ github.repository_owner }}" --jq .public_repos)
+          printf '{"schemaVersion":1,"label":"Public Repos","message":"%s","color":"blue"}\n' "$count" > dist/repos.json
+
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
@@ -22,13 +33,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Count public repos
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          count=$(gh api "users/${{ github.repository_owner }}" --jq .public_repos)
-          printf '{"schemaVersion":1,"label":"Public Repos","message":"%s","color":"blue"}\n' "$count" > dist/repos.json
 
       - name: Push assets to the output branch
         uses: crazy-max/ghaction-github-pages@v4
